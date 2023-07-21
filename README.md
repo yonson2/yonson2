@@ -1,4 +1,4 @@
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonson2&include_all_commits=true&hide=css&layout=compact&count_private=true&theme=buefy)
+![My Most Used Languages](https://github-readme-stats-mauve-seven.vercel.app/api/top-langs/?username=yonson2&include_all_commits=true&hide=css,html&layout=compact&count_private=true&theme=buefy)
 
 <!--
 **yonson2/yonson2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
